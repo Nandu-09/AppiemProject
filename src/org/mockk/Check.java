@@ -11,6 +11,7 @@ public class Check {
 	}
 		public Check(){
 
+		System.out.println("new constructor");
 			System.out.println("constructor");
 }
 public static void main(String[] args) {
